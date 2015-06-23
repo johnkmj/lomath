@@ -1,0 +1,15 @@
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+node_modules/
+coverage/
+chart/build/
+
+# Other files and folders
+.settings/
+.tmp/
+fonts/
+
+# System files
+.DS_Store
