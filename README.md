@@ -48,7 +48,7 @@ You can also extend `lomath` and define your own function that applies to tensor
 
 ## Plotting Module
 
-![Sample plot](./docs/demo.gif)
+![Sample plot](./demo.gif)
 
 `lomath` comes with a standalone plotting module that using `HighCharts` and `BrowserSync`. Just run your JS file normally when you plot (example below), and it will automatically pull up a browser showing you the charts; you can save them!
 
@@ -107,4 +107,6 @@ hc.render();
 
 ## Roadmap
 - add aliases
+- add Randomjs engine
+- more stats methods: sample, multidim probs, covarience, distributions
 - performance benchmark
